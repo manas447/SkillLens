@@ -49,7 +49,9 @@ Open `frontend/index.html` in browser
 ---
 
 ## ⚠️ Disclaimer
-This system is for decision support only and not a final hiring verdict.
+This system is for decision support only and not a final hiring verdict
+Minor documentation update
+
 
 ---
 
